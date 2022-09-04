@@ -9,6 +9,8 @@ except KeyError:
 
 if __name__ == "__main__":
 	os.system("git pull")
+	os.system("mkdir OK")
+	os.system("mkdir CP")
 	if "Indonesia" == fc:
 		__import__("Simple").Line_()
 	else:
