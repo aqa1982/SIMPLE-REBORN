@@ -12,6 +12,7 @@
 #### CARA MENJALANKAN SCRIPT:
  ketikan perintah dibawah ini:
  ```
+  $ termux-setup-storage ,pilih y ,enter
   $ cd SIMPLE-REBORN
   $ git pull
   $ python Simple.py
