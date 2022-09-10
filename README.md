@@ -18,7 +18,7 @@
   $ python Simple.py
  ```
 #### MENU TAMPILAN AWAL:
-![Screenshot_20220904-005211_Termux](https://user-images.githubusercontent.com/89802496/188282603-0050320f-232b-48ac-9d49-d55bd5651b11.png)
+![Screenshot_20220911-065113_Termux](https://user-images.githubusercontent.com/89802496/189505541-a43ce0fe-8c14-4e08-9b77-6d2354a9849a.png)
 #### CONTOH HASIL CRACK FB:
 ![20220904_015915](https://user-images.githubusercontent.com/89802496/188284667-1bae888a-d684-44a9-8f14-93cea62197c8.jpg)
 
